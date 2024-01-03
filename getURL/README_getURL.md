@@ -1,0 +1,1 @@
+This script will use bing API and search and fetch the urls with the help of parameters provided.
